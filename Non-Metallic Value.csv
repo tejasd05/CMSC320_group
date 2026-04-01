@@ -1,0 +1,44 @@
+﻿"Production of non-metallic minerals in value, monthly 1 2 3"
+"Frequency: Monthly"
+"Table: 16-10-0020-02"
+"Release date: 2026-03-20"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+"Geography","Canada 2",,,,
+"Variables","Value of shipments 2",,,,
+"Products","September 2025","October 2025","November 2025","December 2025","January 2026"
+"Diamonds (dollars)","77,324,076","70,737,000","47,550,000","80,533,000","x"
+"Graphite (dollars) 4","..","..","..","..",".."
+"Gypsum (dollars)","6,343,000","7,633,085","6,907,375","5,039,300","6,024,650"
+"Lime, total (dollars) 5 6","36,309,225","33,869,131","29,532,823","31,954,069","34,688,572"
+"Lime, hydrated lime (dollars) 7","6,151,948","5,595,019","4,327,402","4,900,860","4,131,008"
+"Lime, quicklime (dollars) 7","30,157,277","28,274,112","25,205,421","27,053,209","30,557,564"
+"Potash, muriate of potash (MOP) (dollars)","862,095,360","831,922,809","871,542,808","698,745,896","765,168,381"
+"Salt, total (dollars) 8","49,843,922","53,697,419","50,490,252","62,471,793","67,125,389"
+"Salt, fine vaccum (dollars)","x","x","x","x","x"
+"Salt, in brine (dollars)","x","x","x","x","x"
+"Salt, rock (dollars)","28,895,613","32,925,785","31,433,633","43,641,936","47,207,479"
+
+Symbol legend:
+.., not available for a specific reference period
+x, suppressed to meet the confidentiality requirements of the Statistics Act
+
+
+
+
+Footnotes:
+1,"The sum may not add up to the total due to rounding."
+2,"The first release of data on value of shipments at the national level occurred on March 23rd, 2021. The time series starts with reference month January 2021. Data on value of shipments for refined products are not published at the provincial or territorial level."
+3,"The Institut de la Statistique du Québec is responsible for the collection and processing of mineral production data from Quebec respondents on a monthly basis."
+4,"Graphite was added to the table on March 20th, 2026. The time series starts with reference month January 2026."
+5,"This group of products are aggregates, clay or refractory minerals."
+6,"The lime group includes quicklime and hydrated lime."
+7,"This product is an aggregate, clay or refractory mineral."
+8,"The salt group includes fine vacuum salt, in brine salt and rock salt."
+
+
+
+"How to cite: Statistics Canada. Table 16-10-0020-02  Production of non-metallic minerals in value, monthly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610002002
